@@ -9,3 +9,14 @@ font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 .button{
 background-color: #E3F6CE;
 }
+
+ul{
+background-color: #CEF6CE;
+width: 200px;
+border: 2px solid #86B404;
+border-radius: 5px;
+}
+
+ul:hover{
+border: 2px solid #688A08;
+}
