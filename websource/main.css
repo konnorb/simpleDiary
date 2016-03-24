@@ -21,7 +21,9 @@ border-radius: 5px;
 border: 2px solid #688A08;
 }
 
-/*Trying to add the ribbon*/
+
+
+/*Box pre-ribbon*/
 .box{
   /*margin: 50px auto;*/
   background-color: #CEF6CE;
@@ -32,9 +34,7 @@ border: 2px solid #688A08;
   z-index: 90;
 }
 
-
-  
- 
+/*Ribbon*/
 .ribbon-wrapper {
   width: 85px;
   height: 88px;
@@ -59,6 +59,18 @@ border: 2px solid #688A08;
     background-color: #F5A9A9;
     color: #fff;
 }
+.r-w-left{
+right:auto;
+left:-2px;
+}
+.r-left{
+    -webkit-transform: rotate(-45deg);
+    -moz-transform:    rotate(-45deg);
+    -ms-transform:     rotate(-45deg);
+    -o-transform:      rotate(-45deg);
+	right:auto;
+	left:-30px;
+}
 
 .r-violet{
 background-color: #BCA9F5;
@@ -66,4 +78,55 @@ background-color: #BCA9F5;
 
 .r-blue{
 background-color:#A9A9F5;
+}
+
+
+/*Table*/
+.table{
+background-color:#F5ECCE;
+border: 2px solid #F5D0A9;
+border-collapse: collapse;
+}
+th {
+background-color:#F3E2A9;
+border-bottom: 2px solid #F5D0A9;
+border-left: 2px solid #F5D0A9;
+padding:5px;
+}
+
+
+
+
+/*Header plus decoration*/
+.header{
+text-align:center;
+background-color:#E0E6F8;
+
+width:200px;
+padding:5px;
+}
+.header > h2{
+z-index:100;
+color:gray;
+}
+.header-box{
+  overflow: hidden;
+  position: absolute;
+  height:60px;
+width:200px;
+padding:5px;
+}
+.header-box-decoration{
+	z-index:0;
+    -webkit-transform: rotate(45deg);
+    -moz-transform:    rotate(45deg);
+    -ms-transform:     rotate(45deg);
+    -o-transform:      rotate(45deg);
+    position: relative;
+    padding: 7px 0;
+    top: 15px;
+    right: 0px;
+	height:100px;
+    width: 200px;
+    background-color: #F5A9A9;
 }
