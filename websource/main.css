@@ -1,6 +1,6 @@
 /*
-Written by Konnorb
-*/
+ * Written by: Konnorb
+ */
 
 body{
 background-color: #E3F6CE;
@@ -93,8 +93,6 @@ border-bottom: 2px solid #F5D0A9;
 border-left: 2px solid #F5D0A9;
 padding:5px;
 }
-
-
 
 
 /*Header plus decoration*/
