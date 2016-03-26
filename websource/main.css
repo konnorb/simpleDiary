@@ -21,7 +21,7 @@ border-radius: 5px;
 border: 2px solid #688A08;
 }
 
-/*Trying to add the ribbon*/
+/*Box where we'll test the ribbon*/
 .box{
   /*margin: 50px auto;*/
   background-color: #CEF6CE;
@@ -32,9 +32,7 @@ border: 2px solid #688A08;
   z-index: 90;
 }
 
-
-  
- 
+/*Ribbon*/
 .ribbon-wrapper {
   width: 85px;
   height: 88px;
