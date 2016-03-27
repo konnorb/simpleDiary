@@ -6,9 +6,6 @@ body{
 background-color: #E3F6CE;
 font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
-.button{
-background-color: #E3F6CE;
-}
 
 .first-ul{
 background-color: #CEF6CE;
@@ -16,7 +13,6 @@ width: 200px;
 border: 2px solid #86B404;
 border-radius: 5px;
 }
-
 .first-ul:hover{
 border: 2px solid #688A08;
 }
@@ -61,7 +57,6 @@ border: 2px solid #688A08;
 .r-violet{
 background-color: #BCA9F5;
 }
-
 .r-blue{
 background-color:#A9A9F5;
 }
