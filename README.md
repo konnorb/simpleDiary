@@ -1,6 +1,6 @@
 # Konnor's first github repository
 
-This is my first repository. Just meant for fiddling.
+This is my first repository. Just meant for fiddling around.
 
 ==============
 Good stuff
