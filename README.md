@@ -11,3 +11,7 @@ Good stuff
 </ul>
 
 Might look into making a css framework.
+
+<br>
+
+Will probably work on an image gallery too.
