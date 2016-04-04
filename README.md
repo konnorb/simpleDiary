@@ -3,14 +3,14 @@
 This is my first repository. Just meant for fiddling around.
 
 ==============
-Good stuff
+Stuff
 ==============
 <ul>
 <li>CSS3</li>
 <li>HTML5</li>
 </ul>
 
-Might look into making a css framework.
+Considering to make a css framework.
 
 <br>
 
