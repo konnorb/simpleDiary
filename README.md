@@ -8,6 +8,7 @@ Stuff
 <ul>
 <li>CSS3</li>
 <li>HTML5</li>
+<li>Responsive</li>
 </ul>
 
 Considering to make a css framework.
