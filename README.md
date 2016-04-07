@@ -18,13 +18,19 @@ Considering to make a css framework.
 Will probably work on an image gallery too.
 <br>
 
-<tr>
-    <td>Monday</td>
-    <td>Tuesday</td> 
-    <td>Wednesday</td>
-</tr>
-<tr>
-    <td>1</td>
-    <td>2</td> 
-    <td>3</td>
-</tr>
+
+
+<br>
+<h2>Table test:</h2>
+|Monday|Tuesday|
+|------|-------|
+|1     |2      |
+
+
+
+
+<br>
+<h2>Syntax highlight test:</h2>
+```html
+<div class="nav-bar red">Home</div>
+```
