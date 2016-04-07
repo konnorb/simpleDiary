@@ -34,3 +34,8 @@ Will probably work on an image gallery too.
 ```html
 <div class="nav-bar red">Home</div>
 ```
+
+
+<br>
+<h2>Image test:</h2>
+![Alt text](http://i.imgur.com/kMT9xpn.jpg "Cute husky looking pupper")
