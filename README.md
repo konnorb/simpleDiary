@@ -16,3 +16,15 @@ Considering to make a css framework.
 <br>
 
 Will probably work on an image gallery too.
+<br>
+
+<tr>
+    <td>Monday</td>
+    <td>Tuesday</td> 
+    <td>Wednesday</td>
+</tr>
+<tr>
+    <td>1</td>
+    <td>2</td> 
+    <td>3</td>
+</tr>
