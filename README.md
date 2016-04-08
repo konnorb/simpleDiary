@@ -22,9 +22,9 @@ Will probably work on an image gallery too.
 
 <br>
 <h2>Table test:</h2>
-|Monday|Tuesday|
-|------|-------|
-|1     |2      |
+|Monday|Tuesday|Thursday|
+|------|-------|--------|
+|1     |2      |3	|
 
 
 
