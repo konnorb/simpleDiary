@@ -22,12 +22,13 @@ Will probably work on an image gallery too.
 
 <br>
 <h2>Table test:</h2>
-|Monday|Tuesday|Thursday|Friday|
-|------|-------|--------|------|
-|1     |2      |3	|4     |
-|1     |2      |3	|4     |
-|1     |2      |3	|4     |
-|1     |2      |3	|4     |
+|Monday|Tuesday|Thursday|Friday|Saturday|
+|------|-------|--------|------|--------|
+|1     |2      |3	|4     |	|
+|1     |2      |3	|4     |	|
+|1     |2      |3	|4     |	|
+|1     |2      |3	|4     |	|
+|1     |2      |3	|4     |	|
 
 
 
