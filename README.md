@@ -32,7 +32,8 @@ Will probably work on an image gallery too.
 	      |2      |
 |      |      |       |3       |15    |16      |
 
-|17    |18    |19     |
+|17    |18    |19     |        |      |22      |
+
 
 <br>
 <h2>Syntax highlight test:</h2>
