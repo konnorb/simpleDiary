@@ -33,7 +33,7 @@ Will probably work on an image gallery too.
 |      |      |       |3       |15    |16      |
 
 |17    |18    |19     |        |      |22      |
-|23    |
+|23    |24    |25     |
 
 
 <br>
